@@ -10,7 +10,7 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are able to see a customized app icon and launch screen
+- [x] Users are able to see a customized app icon and launch screen
 - [ ] Your app should work for any screen size and orientation using AutoLayout constraints
 - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
 - [ ] Displays at least 5 different movies in a table view
