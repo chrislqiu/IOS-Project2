@@ -4,7 +4,7 @@ Submitted by: Chris Qiu
 
 Flixster is a movie browsing app that has statistics on movies
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] Your app should work for any screen size and orientation using AutoLayout constraints
 - [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
 - [x] Displays at least 5 different movies in a table view
-- [ ] Can tap into detail view of movie with a full description, backdrop image, and title
+- [x] Can tap into detail view of movie with a full description, backdrop image, and title
  
 The following **optional** features are implemented:
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/rpCbCPm)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
